@@ -3,7 +3,8 @@
 This project provides a structured data science–oriented investigation of residential real estate listings from St. Petersburg and nearby localities.
 The primary objective is to understand the underlying structure of the dataset, reveal the key drivers of property value, and prepare a clean and interpretable feature space suitable for downstream machine learning tasks.
 
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/faec2844-4760-4e86-bc5f-80367f227574" />
+<img src="путь/к/вашему/огромному/изображению.png" width="500" height="300" alt="Описание картинки">
+<img src="путь/к/вашему/огромному/изображению.png" width="600" alt="Описание картинки">
 
 
 🎯 Project Objectives (DS-Oriented)<br/>
